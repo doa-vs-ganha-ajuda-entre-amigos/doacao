@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 46,
+    "uniqCompNum": 47,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -44,7 +44,7 @@
             },
             ".mbr-section-title": {
               "font-size": "36px",
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -53,12 +53,12 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-2",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
