@@ -411,14 +411,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#social-buttons4-2 .mbr-section-title,
-#social-buttons4-2 .btn-social {
-  color: #fff;
-}
-#social-buttons4-2 .mbr-section-title {
-  font-size: 36px;
-  color: #ffffff;
-}
 #header3-4 .mbr-section-title,
 #header3-4 .mbr-section-subtitle {
   text-align: center;
@@ -550,4 +542,23 @@ h6,
 #content1-18 P {
   color: #ffffff;
   font-size: 30px;
+}
+#header3-1c .mbr-section-title,
+#header3-1c .mbr-section-subtitle {
+  text-align: center;
+}
+#features7-1b .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-1b .iconbox {
+  background-color: #b8312f;
+  border-color: #b8312f;
+}
+#social-buttons4-2 .mbr-section-title,
+#social-buttons4-2 .btn-social {
+  color: #fff;
+}
+#social-buttons4-2 .mbr-section-title {
+  font-size: 36px;
+  color: #ffffff;
 }

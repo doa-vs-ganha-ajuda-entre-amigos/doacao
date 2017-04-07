@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Listas Doa VS Ganha",
-    "currentPage": "inicio",
+    "currentPage": "central-listas",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,53 +22,10 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 47,
+    "uniqCompNum": 49,
     "versionPublish": "3.12.1"
   },
   "pages": {
-    "inicio": {
-      "settings": {
-        "main": true,
-        "title": "Início",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-2",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "SIGA-NOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Doa-VS-Ganha-1911819389099756\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
-        }
-      ]
-    },
     "lista-1": {
       "settings": {
         "title": "Lista 1",
@@ -846,6 +803,211 @@
             "bgColor": "#fff"
           },
           "text": "<blockquote>1\tPAUL-0058&nbsp;</blockquote><blockquote>2\tFLAV-0122</blockquote><blockquote>3\tMICH-0455</blockquote><blockquote>4\tESTE-0011</blockquote><blockquote>5\tEDUA-2109</blockquote><blockquote>6\tROBS2321</blockquote><blockquote>7\tFERN-114</blockquote><blockquote>8\tCARL-4596</blockquote><blockquote>9\tANTO-4599</blockquote><blockquote>10\tBRUN-1993</blockquote><blockquote>11\tCESA-4000</blockquote><blockquote>12\tMATE-4588</blockquote><blockquote>13\tRAFA-3397</blockquote><blockquote>14\tCLEB-4777</blockquote><blockquote>15\tJONA-3644</blockquote><blockquote>16\tPAUL-0059</blockquote><blockquote>17\tFLAV-0123</blockquote><blockquote>18\tMICH-0456</blockquote><blockquote>19\tESTE-0012</blockquote><blockquote>20\tEDUA-2110</blockquote><blockquote>21\tROBS-2322</blockquote><blockquote>22\tFERN-115</blockquote><blockquote>23\tCARL-4597</blockquote><blockquote>24\tANTO-4600</blockquote><blockquote>25\tBRUN-1994</blockquote><blockquote>26\tCESA-4001</blockquote><blockquote>27\tMATE-4589</blockquote><blockquote>28\tRAFA-3398</blockquote><blockquote>29\tCLEB-4778</blockquote><blockquote>30\tJONA-3645</blockquote><blockquote>31\tPAUL-0060</blockquote><blockquote>32\tFLAV-0124</blockquote><blockquote>33\tMICH-0457</blockquote><blockquote>34\tESTE-0013</blockquote><blockquote>35\tEDUA-2111</blockquote><blockquote>36\tROBS-2323</blockquote><blockquote>37\tFERN-116</blockquote><blockquote>38\tCARL-4598</blockquote><blockquote>39\tANTO-4601</blockquote><blockquote>40\tBRUN-1995</blockquote><blockquote>41\tCESA-4002</blockquote><blockquote>42\tMATE-4590</blockquote><blockquote>43\tRAFA-3399</blockquote><blockquote>44\tCLEB-4779</blockquote><blockquote>45\tJONA-3646</blockquote><blockquote>46\tPAUL-0061</blockquote><blockquote>47\tFLAV-0125</blockquote><blockquote>48\tMICH-0458</blockquote><blockquote>49\tESTE-0014</blockquote><blockquote>50\tEDUA-2112</blockquote><blockquote>51\tROBS-2324</blockquote><blockquote>52\tFERN-117</blockquote><blockquote>53\tCARL-4599</blockquote><blockquote>54\tANTO-4602</blockquote><blockquote>55\tBRUN-1996</blockquote><blockquote>56\tCESA-4003</blockquote><blockquote>57\tMATE-4591</blockquote><blockquote>58\tRAFA-3400</blockquote><blockquote>59\tCLEB-4780</blockquote><blockquote>60\tJONA-3647</blockquote><blockquote>61\tPAUL-0062</blockquote><blockquote>62\tFLAV-0126</blockquote><blockquote>63\tMICH-0459</blockquote><blockquote>64\tESTE-0015</blockquote><blockquote>65\tEDUA-2113</blockquote><blockquote>66\tROBS-2325</blockquote><blockquote>67\tFERN-118</blockquote><blockquote>68\tCARL-4600</blockquote><blockquote>69\tANTO-4603</blockquote><blockquote>70\tBRUN-1997</blockquote><blockquote>71\tCESA-4004</blockquote><blockquote>72\tMATE-4592</blockquote><blockquote>73\tRAFA-3401</blockquote><blockquote>74\tCLEB-4781</blockquote><blockquote>75\tJONA-3648</blockquote><blockquote>76\tPAUL-0063</blockquote><blockquote>77\tFLAV-0127</blockquote><blockquote>78\tMICH-0460</blockquote><blockquote>79\tESTE-0016</blockquote><blockquote>80\tEDUA-2114</blockquote><blockquote>81\tROBS-2326</blockquote><blockquote>82\tFERN-119</blockquote><blockquote>83\tCARL-4601</blockquote><blockquote>84\tANTO-4604</blockquote><blockquote>85\tBRUN-1998</blockquote><blockquote>86\tCESA-4005</blockquote><blockquote>87\tMATE-4593</blockquote><blockquote>88\tRAFA-3402</blockquote><blockquote>89\tCLEB-4782</blockquote><blockquote>90\tJONA-3649</blockquote><blockquote>91\tPAUL-0064</blockquote><blockquote>92\tFLAV-0128</blockquote><blockquote>93\tMICH-0461</blockquote><blockquote>94\tESTE-0017</blockquote><blockquote>95\tEDUA-2115</blockquote><blockquote>96\tROBS-2327</blockquote><blockquote>97\tFERN-120</blockquote><blockquote>98\tCARL-4602</blockquote><blockquote>99\tANTO-4605</blockquote><blockquote>100\tBRUN-1999</blockquote><blockquote>101\tCESA-4006</blockquote><blockquote>102\tMATE-4594</blockquote><blockquote>103\tRAFA-3403</blockquote><blockquote>104\tCLEB-4783</blockquote><blockquote>105\tJONA-3650</blockquote><blockquote>106\tPAUL-0065</blockquote><blockquote>107\tFLAV-0129</blockquote><blockquote>108\tMICH-0462</blockquote><blockquote>109\tESTE-0018</blockquote><blockquote>110\tEDUA-2116</blockquote><blockquote>111\tROBS-2328</blockquote><blockquote>112\tFERN-121</blockquote><blockquote>113\tCARL-4603</blockquote><blockquote>114\tANTO-4606</blockquote><blockquote>115\tBRUN-2000</blockquote><blockquote>116\tCESA-4007</blockquote><blockquote>117\tMATE-4595</blockquote><blockquote>118\tRAFA-3404</blockquote><blockquote>119\tCLEB-4784</blockquote><blockquote>120\tJONA-3651</blockquote><blockquote>121\tPAUL-0066</blockquote><blockquote>122\tFLAV-0130</blockquote><blockquote>123\tMICH-0463</blockquote><blockquote>124\tESTE-0019</blockquote><blockquote>125\tEDUA-2117</blockquote><blockquote>126\tROBS-2329</blockquote><blockquote>127\tFERN-122</blockquote><blockquote>128\tCARL-4604</blockquote><blockquote>129\tANTO-4607</blockquote><blockquote>130\tBRUN-2001</blockquote><blockquote>131\tCESA-4008</blockquote><blockquote>132\tMATE-4596</blockquote><blockquote>133\tRAFA-3405</blockquote><blockquote>134\tCLEB-4785</blockquote><blockquote>135\tJONA-3652</blockquote><blockquote>136\tPAUL-0067</blockquote><blockquote>137\tFLAV-0131</blockquote><blockquote>138\tMICH-0464</blockquote><blockquote>139\tESTE-0020</blockquote><blockquote>140\tEDUA-2118</blockquote><blockquote>141\tROBS-2330</blockquote><blockquote>142\tFERN-123</blockquote><blockquote>143\tCARL-4605</blockquote><blockquote>144\tANTO-4608</blockquote><blockquote>145\tBRUN-2002</blockquote><blockquote>146\tCESA-4009</blockquote><blockquote>147\tMATE-4597</blockquote><blockquote>148\tRAFA-3406</blockquote><blockquote>149\tCLEB-4786</blockquote>"
+        }
+      ]
+    },
+    "central-listas": {
+      "settings": {
+        "main": true,
+        "title": "Central das Listas",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Central das Listas",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-1b",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "player",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title1": "Lista 1",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"lista-1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "heroes",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title2": "Lista 2",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"lista-2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "beam",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title3": "Lista 3",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"lista-3\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "zapier",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title4": "Lista 4",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"lista-4\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "googlephotos",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title5": "Lista 5",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"lista-5\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "reverbnation",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title6": "Lista 6",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"lista-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "SIGA-NOS",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Doa-VS-Ganha-1911819389099756\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     }
