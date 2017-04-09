@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Listas Doa VS Ganha",
-    "currentPage": "central-listas",
+    "currentPage": "1fase",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -295,7 +295,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><ul><li>SISTEMA - 94981301728</li><li><br></li><li><br></li><li><br></li><li><br></li></ul></blockquote>"
+          "text": "<blockquote><ul><li>SISTEMA - 94981301728</li><li><br></li><li><br></li><li><br></li><li><br></li></ul></blockquote>",
+          "_styles": {
+            "UL": {
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_tags": [
@@ -327,7 +332,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>ROBSON-94992072320</p><p>JACKSON-49999912447</p><p>HUMBERTO-4999290309</p><p>MARCIO-94981560541</p><p>EDINICE-94992702109</p></blockquote>"
+          "text": "<blockquote><p>ROBSON-94992072320</p><p>JACKSON-49999152447 <a href=\"http://construtor.gerasite.com/header/5c29710b2f399dfca494da966d524a33.jpg\" target=\"_blank\">PG</a></p><p>HUMBERTO-4999290309</p><p>MARCIO-94981560541</p><p>EDINICE-94992702109</p></blockquote>",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_tags": [

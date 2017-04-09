@@ -444,9 +444,15 @@ h6,
   color: #ffffff;
   font-size: 30px;
 }
+#content2-7 UL {
+  font-size: 16px;
+}
 #content1-6 P {
   font-size: 30px;
   color: #ffffff;
+}
+#content2-8 P {
+  font-size: 16px;
 }
 #content1-9 P {
   color: #ffffff;
