@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Listas Doa VS Ganha",
-    "currentPage": "6fase",
+    "currentPage": "1fase",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -633,7 +633,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "1° FASE",
+          "title": "2° FASE",
           "meta": "ÚLTIMA ATUALIZAÇÃO\t09/04/2017 14:15"
         },
         {
@@ -672,7 +672,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que estão no direito de receber 5 doações na 1° FASE,</p>"
+          "text": "<p>É a relação de membros que estão no direito de receber 5 doações na 2° FASE,</p>"
         },
         {
           "_tags": [
@@ -728,7 +728,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que entrarão agora na 1° FASE, Após 5 doações confirmadas terão seus nomes adicionados na 1° FASE.</p>"
+          "text": "<p>É a relação de membros que entrarão agora na 2° FASE, Após as doações confirmadas terão seus nomes adicionados na 2° FASE.</p>"
         },
         {
           "_tags": [
@@ -784,7 +784,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que já efetuaram suas doações aqui na 1° FASE, e aguardam em ordem para receber as doações.</p>"
+          "text": "<p>É a relação de membros que já efetuaram suas doações aqui na 2° FASE, e aguardam em ordem para receber as doações.</p>"
         },
         {
           "_tags": [
@@ -917,7 +917,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "1° FASE",
+          "title": "3° FASE",
           "meta": "ÚLTIMA ATUALIZAÇÃO\t09/04/2017 14:15"
         },
         {
@@ -956,7 +956,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que estão no direito de receber 5 doações na 1° FASE,</p>"
+          "text": "<p>É a relação de membros que estão no direito de receber 5 doações na 3° FASE,</p>"
         },
         {
           "_tags": [
@@ -1012,7 +1012,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que entrarão agora na 1° FASE, Após 5 doações confirmadas terão seus nomes adicionados na 1° FASE.</p>"
+          "text": "<p>É a relação de membros que entrarão agora na 3° FASE, Após as doações confirmadas terão seus nomes adicionados na 3° FASE.</p>"
         },
         {
           "_tags": [
@@ -1068,7 +1068,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que já efetuaram suas doações aqui na 1° FASE, e aguardam em ordem para receber as doações.</p>"
+          "text": "<p>É a relação de membros que já efetuaram suas doações aqui na 3° FASE, e aguardam em ordem para receber as doações.</p>"
         },
         {
           "_tags": [
@@ -1201,7 +1201,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "1° FASE",
+          "title": "4° FASE",
           "meta": "ÚLTIMA ATUALIZAÇÃO\t09/04/2017 14:15"
         },
         {
@@ -1240,7 +1240,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que estão no direito de receber 5 doações na 1° FASE,</p>"
+          "text": "<p>É a relação de membros que estão no direito de receber 5 doações na 4° FASE,</p>"
         },
         {
           "_tags": [
@@ -1296,7 +1296,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que entrarão agora na 1° FASE, Após 5 doações confirmadas terão seus nomes adicionados na 1° FASE.</p>"
+          "text": "<p>É a relação de membros que entrarão agora na 4° FASE, Após as doações confirmadas terão seus nomes adicionados na 4° FASE.</p>"
         },
         {
           "_tags": [
@@ -1352,7 +1352,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que já efetuaram suas doações aqui na 1° FASE, e aguardam em ordem para receber as doações.</p>"
+          "text": "<p>É a relação de membros que já efetuaram suas doações aqui na 4° FASE, e aguardam em ordem para receber as doações.</p>"
         },
         {
           "_tags": [
@@ -1485,7 +1485,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "1° FASE",
+          "title": "5° FASE",
           "meta": "ÚLTIMA ATUALIZAÇÃO\t09/04/2017 14:15"
         },
         {
@@ -1524,7 +1524,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que estão no direito de receber 5 doações na 1° FASE,</p>"
+          "text": "<p>É a relação de membros que estão no direito de receber 5 doações na 5° FASE,</p>"
         },
         {
           "_tags": [
@@ -1580,7 +1580,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que entrarão agora na 1° FASE, Após 5 doações confirmadas terão seus nomes adicionados na 1° FASE.</p>"
+          "text": "<p>É a relação de membros que entrarão agora na 1° FASE, Após as doações confirmadas terão seus nomes adicionados na 5° FASE.</p>"
         },
         {
           "_tags": [
@@ -1636,7 +1636,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que já efetuaram suas doações aqui na 1° FASE, e aguardam em ordem para receber as doações.</p>"
+          "text": "<p>É a relação de membros que já efetuaram suas doações aqui na 5° FASE, e aguardam em ordem para receber as doações.</p>"
         },
         {
           "_tags": [
@@ -1769,7 +1769,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "1° FASE",
+          "title": "6° FASE",
           "meta": "ÚLTIMA ATUALIZAÇÃO\t09/04/2017 14:15"
         },
         {
@@ -1808,7 +1808,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que estão no direito de receber 5 doações na 1° FASE,</p>"
+          "text": "<p>É a relação de membros que estão no direito de receber 5 doações na 6° FASE,</p>"
         },
         {
           "_tags": [
@@ -1864,7 +1864,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que entrarão agora na 1° FASE, Após 5 doações confirmadas terão seus nomes adicionados na 1° FASE.</p>"
+          "text": "<p>É a relação de membros que entrarão agora na 1° FASE, Após as doações confirmadas terão seus nomes adicionados na 5° FASE.</p>"
         },
         {
           "_tags": [
@@ -1920,7 +1920,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que já efetuaram suas doações aqui na 1° FASE, e aguardam em ordem para receber as doações.</p>"
+          "text": "<p>É a relação de membros que já efetuaram suas doações aqui na 5° FASE, e aguardam em ordem para receber as doações.</p>"
         },
         {
           "_tags": [
