@@ -411,6 +411,25 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header3-1c .mbr-section-title,
+#header3-1c .mbr-section-subtitle {
+  text-align: center;
+}
+#features7-1b .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-1b .iconbox {
+  background-color: #b8312f;
+  border-color: #b8312f;
+}
+#social-buttons4-2 .mbr-section-title,
+#social-buttons4-2 .btn-social {
+  color: #fff;
+}
+#social-buttons4-2 .mbr-section-title {
+  font-size: 36px;
+  color: #ffffff;
+}
 #header3-4 .mbr-section-title,
 #header3-4 .mbr-section-subtitle {
   text-align: center;
@@ -430,72 +449,6 @@ h6,
   color: #ffffff;
 }
 #content1-9 P {
-  color: #ffffff;
-  font-size: 30px;
-}
-#header3-i .mbr-section-title,
-#header3-i .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-i H3 {
-  color: #b8312f;
-}
-#header3-i SMALL {
-  color: #000000;
-}
-#content1-j P {
-  color: #ffffff;
-  font-size: 30px;
-}
-#content1-l P {
-  font-size: 30px;
-  color: #ffffff;
-}
-#content1-n P {
-  color: #ffffff;
-  font-size: 30px;
-}
-#header3-w .mbr-section-title,
-#header3-w .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-w H3 {
-  color: #b8312f;
-}
-#header3-w SMALL {
-  color: #000000;
-}
-#content1-x P {
-  color: #ffffff;
-  font-size: 30px;
-}
-#content1-z P {
-  font-size: 30px;
-  color: #ffffff;
-}
-#content1-11 P {
-  color: #ffffff;
-  font-size: 30px;
-}
-#header3-p .mbr-section-title,
-#header3-p .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-p H3 {
-  color: #b8312f;
-}
-#header3-p SMALL {
-  color: #000000;
-}
-#content1-q P {
-  color: #ffffff;
-  font-size: 30px;
-}
-#content1-s P {
-  font-size: 30px;
-  color: #ffffff;
-}
-#content1-u P {
   color: #ffffff;
   font-size: 30px;
 }
@@ -521,6 +474,50 @@ h6,
   color: #ffffff;
   font-size: 30px;
 }
+#header3-p .mbr-section-title,
+#header3-p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-p H3 {
+  color: #b8312f;
+}
+#header3-p SMALL {
+  color: #000000;
+}
+#content1-q P {
+  color: #ffffff;
+  font-size: 30px;
+}
+#content1-s P {
+  font-size: 30px;
+  color: #ffffff;
+}
+#content1-u P {
+  color: #ffffff;
+  font-size: 30px;
+}
+#header3-w .mbr-section-title,
+#header3-w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-w H3 {
+  color: #b8312f;
+}
+#header3-w SMALL {
+  color: #000000;
+}
+#content1-x P {
+  color: #ffffff;
+  font-size: 30px;
+}
+#content1-z P {
+  font-size: 30px;
+  color: #ffffff;
+}
+#content1-11 P {
+  color: #ffffff;
+  font-size: 30px;
+}
 #header3-13 .mbr-section-title,
 #header3-13 .mbr-section-subtitle {
   text-align: center;
@@ -543,22 +540,25 @@ h6,
   color: #ffffff;
   font-size: 30px;
 }
-#header3-1c .mbr-section-title,
-#header3-1c .mbr-section-subtitle {
+#header3-i .mbr-section-title,
+#header3-i .mbr-section-subtitle {
   text-align: center;
 }
-#features7-1b .card-subtitle {
-  color: #bcbcbc;
+#header3-i H3 {
+  color: #b8312f;
 }
-#features7-1b .iconbox {
-  background-color: #b8312f;
-  border-color: #b8312f;
+#header3-i SMALL {
+  color: #000000;
 }
-#social-buttons4-2 .mbr-section-title,
-#social-buttons4-2 .btn-social {
-  color: #fff;
-}
-#social-buttons4-2 .mbr-section-title {
-  font-size: 36px;
+#content1-j P {
   color: #ffffff;
+  font-size: 30px;
+}
+#content1-l P {
+  font-size: 30px;
+  color: #ffffff;
+}
+#content1-n P {
+  color: #ffffff;
+  font-size: 30px;
 }
