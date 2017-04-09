@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 49,
+    "uniqCompNum": 54,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -263,7 +263,7 @@
             "showMeta": true
           },
           "title": "1° FASE",
-          "meta": "ÚLTIMA ATUALIZAÇÃO\t06/04/2017 14:42"
+          "meta": "ÚLTIMA ATUALIZAÇÃO\t09/04/2017 14:15"
         },
         {
           "_tags": [
@@ -288,19 +288,38 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content1",
+          "_anchor": "content1-1h",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#b8312f"
+          },
+          "text": "<p>É a relação de membros que estão no direito de receber 5 doações na 1° FASE,</p>",
+          "_styles": {
+            "P": {
+              "font-size": "15px",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "content2",
+          "_styles": {
+            "UL": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "content2-7",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><ul><li>SISTEMA - 94981301728</li><li><br></li><li><br></li><li><br></li><li><br></li></ul></blockquote>",
-          "_styles": {
-            "UL": {
-              "font-size": "16px"
-            }
-          }
+          "text": "<blockquote><div><span style=\"line-height: 1.5; font-size: 1.07rem;\">SISTEMA - 94981301728</span></div></blockquote>"
         },
         {
           "_tags": [
@@ -325,19 +344,38 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content1",
+          "_anchor": "content1-1g",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#b8312f"
+          },
+          "text": "<p>É a relação de membros que entrarão agora na 1° FASE, Após 5 doações confirmadas terão seus nomes adicionados na 1° FASE.</p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "content2",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "content2-8",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>ROBSON-94992072320 <a href=\"http://construtor.gerasite.com/header/f2a10134616f3c9b12da29acb95c7bdc.jpg\" target=\"_blank\">PG</a></p><p>JACKSON-49999152447 <a href=\"http://construtor.gerasite.com/header/5c29710b2f399dfca494da966d524a33.jpg\" target=\"_blank\">PG</a></p><p>HUMBERTO-4999290309</p><p>MARCIO-94981560541</p><p>EDINICE-94992702109 <a href=\"http://construtor.gerasite.com/header/3a6b2d7ed87257e00dcb50c91b5cc370.jpg\" target=\"_blank\">PG</a></p></blockquote>",
-          "_styles": {
-            "P": {
-              "font-size": "16px"
-            }
-          }
+          "text": "<blockquote><p>ROBSON-94992072320 <a href=\"http://construtor.gerasite.com/header/f2a10134616f3c9b12da29acb95c7bdc.jpg\" target=\"_blank\">PG</a></p><p>JACKSON-49999152447 <a href=\"http://construtor.gerasite.com/header/5c29710b2f399dfca494da966d524a33.jpg\" target=\"_blank\">PG</a></p><p>HUMBERTO-4999290309</p><p>MARCIO-94981560541</p><p>EDINICE-94992702109 <a href=\"http://construtor.gerasite.com/header/3a6b2d7ed87257e00dcb50c91b5cc370.jpg\" target=\"_blank\">PG</a></p></blockquote>"
         },
         {
           "_tags": [
@@ -357,6 +395,25 @@
             "bgColor": "#b8312f"
           },
           "text": "<p><b>PRÓXIMOS A RECEBER</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1f",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#b8312f"
+          },
+          "text": "<p>É a relação de membros que já efetuaram suas doações aqui na 1° FASE, e aguardam em ordem para receber as doações.</p><p><br></p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            }
+          }
         },
         {
           "_tags": [

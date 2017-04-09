@@ -444,6 +444,10 @@ h6,
   color: #ffffff;
   font-size: 30px;
 }
+#content1-1h P {
+  font-size: 15px;
+  color: #ffffff;
+}
 #content2-7 UL {
   font-size: 16px;
 }
@@ -451,12 +455,20 @@ h6,
   font-size: 30px;
   color: #ffffff;
 }
+#content1-1g P {
+  color: #ffffff;
+  font-size: 15px;
+}
 #content2-8 P {
   font-size: 16px;
 }
 #content1-9 P {
   color: #ffffff;
   font-size: 30px;
+}
+#content1-1f P {
+  color: #ffffff;
+  font-size: 15px;
 }
 #header3-b .mbr-section-title,
 #header3-b .mbr-section-subtitle {
