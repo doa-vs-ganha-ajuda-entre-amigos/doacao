@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 55,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -319,7 +319,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><div><span style=\"line-height: 1.5; font-size: 1.07rem;\">SISTEMA - 94981301728</span></div></blockquote>"
+          "text": "<blockquote><div><span style=\"line-height: 1.5; font-size: 1.07rem;\">MARISA 94981301728</span></div><div><span style=\"line-height: 1.5; font-size: 1.07rem;\">JACKSON\t49999152447</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">ROBSON\t94992072320</span></div><div><span style=\"line-height: 1.5; font-size: 1.07rem;\">MARCIO\t94981560541</span></div><div><span style=\"line-height: 1.5; font-size: 1.07rem;\">EDINICE\t94992702109</span></div></blockquote>"
         },
         {
           "_tags": [
@@ -375,7 +375,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>ROBSON-94992072320 <a href=\"http://construtor.gerasite.com/header/f2a10134616f3c9b12da29acb95c7bdc.jpg\" target=\"_blank\">PG</a></p><p>JACKSON-49999152447 <a href=\"http://construtor.gerasite.com/header/5c29710b2f399dfca494da966d524a33.jpg\" target=\"_blank\">PG</a></p><p>HUMBERTO-4999290309</p><p>MARCIO-94981560541</p><p>EDINICE-94992702109 <a href=\"http://construtor.gerasite.com/header/3a6b2d7ed87257e00dcb50c91b5cc370.jpg\" target=\"_blank\">PG</a></p></blockquote>"
+          "text": "<blockquote><ol><li>DISPONÍVEL</li><li>DISPONÍVEL</li><li>DISPONÍVEL</li><li>DISPONÍVEL</li><li>DISPONÍVEL</li></ol></blockquote>"
         },
         {
           "_tags": [
@@ -407,7 +407,7 @@
             "paddingBottom": "0",
             "bgColor": "#b8312f"
           },
-          "text": "<p>É a relação de membros que já efetuaram suas doações aqui na 1° FASE, e aguardam em ordem para receber as doações.</p><p><br></p>",
+          "text": "<p>É a relação de membros que já efetuaram suas doações aqui na 1° FASE, e aguardam em ordem para receber as doações.</p>",
           "_styles": {
             "P": {
               "color": "#ffffff",
@@ -426,7 +426,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>1...</blockquote>"
+          "text": "<blockquote><ol><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li></ol><p><br></p><p><br></p></blockquote>"
         }
       ]
     },
